@@ -23,15 +23,7 @@ pip install -r requirements.txt
 
 ## Running the Code
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/dianacovacii/COMP551_A1.git
-   cd COMP551_A1
-   ```
-
-
-2. Run the cells in order, it will:
+1. Run the cells in order, it will:
 
    * Load and preprocess the dataset(s)
    * Train models defined in `models.py`
