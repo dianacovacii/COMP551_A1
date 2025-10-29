@@ -41,6 +41,14 @@ COMP551_A1/
 - Visualization
 
 ## Installation & Setup
+
+### Prerequisites
+
+- Python 3.8+  
+- pip (Python package manager)  
+- VS Code or any Python IDE/terminal  
+- Required Python packages listed in `requirements.txt`
+
 1. Clone this repository: 
 
    ```bash
@@ -63,13 +71,6 @@ COMP551_A1/
    ```bash
    pip install -r requirements.txt
    ```
-
-### Prerequisites
-
-- Python 3.8+  
-- pip (Python package manager)  
-- VS Code or any Python IDE/terminal  
-- Required Python packages listed in `requirements.txt`
 
 
 ## Usage
