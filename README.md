@@ -1,4 +1,4 @@
-# COMP551_A1 - ML Mini-Project: Linear and Logistic Regression from Scratch
+# COMP551_A1 - ML Project 1: Linear and Logistic Regression from Scratch
 
 Team members - Diana Covaci, Nicholas Milin, and Carl-Elliot Bilodeau-Savaria
 
@@ -40,14 +40,14 @@ COMP551_A1/
    * Comparison of analytical vs. SGD linear regressions
 - Visualization
 
-## Installation & Setup
-
 ### Prerequisites
 
 - Python 3.8+  
 - pip (Python package manager)  
 - VS Code or any Python IDE/terminal  
 - Required Python packages listed in `requirements.txt`
+
+## Installation & Setup
 
 1. Clone this repository: 
 
