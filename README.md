@@ -13,6 +13,7 @@ COMP551_A1/
 ├── A1.ipynb          # Main script with experiments (run in VS Code)
 ├── models.py         # Model definitions and helper functions
 ├── requirements.txt  # Dependencies
+├── writeup.pdf       # Project final report
 └── README.md         # Project documentation
 ```
 
